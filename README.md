@@ -1,0 +1,3 @@
+# RESUME-CLASSIFICATION
+Developing an automated resume classification system using machine learning to categorize resumes, enhancing recruitment efficiency. Challenges include handling diverse resume structures and extracting relevant data. The solution aims to reduce manual screening, mitigate biases, and improve candidate selection quality. Utilizing labeled datasets, the system trains models for accurate classification, adapting to evolving job market requirements. Ultimately, it optimizes HR processes, saving time, and improving candidate selection efficiency.
+![image](https://github.com/SridharRavendran/RESUME-CLASSIFICATION/assets/144263151/4e2e06cc-8541-4103-9a54-68e5725ac6f6)
